@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel - Criminal Face Detection System",
+  "description": "An intelligent security monitoring application that detects and identifies criminal faces in real-time using Gemini-powered facial recognition and automated alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
